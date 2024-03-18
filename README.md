@@ -1,2 +1,2 @@
 # LogicBrain
-An advanced generative AI system focusing on querying, modeling and simulating complex biological systems
+An advanced generative AI system focusing on querying, modeling and simulating complex biological systems.
